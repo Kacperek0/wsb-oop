@@ -3,8 +3,14 @@ namespace OOP_homework
 {
     public class Person
     {
-        string Name;
-        string Surname;
+        string name, surname, address;
+        Address a1 = new Address();
+
+        public string Address
+        {
+            get;
+            set;
+        }
 
         public Person()
         {
@@ -13,14 +19,18 @@ namespace OOP_homework
 
         public void Introduce()
         {
-            Console.WriteLine("Hi! My name is {0} {1}", this.Name, this.Surname);
+            Console.WriteLine("Hi! My name is {0} {1}", this.name, this.surname);
         }
 
         public void SetData(string name, string surname)
         {
-            this.Name = name;
-            this.Surname = surname;
+            this.name = name;
+            this.surname = surname;
 
         }
+
+
+
+
     }
 }
