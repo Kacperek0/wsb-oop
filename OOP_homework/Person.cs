@@ -3,29 +3,43 @@ namespace OOP_homework
 {
     public class Person
     {
-        string name, surname, address;
-        Address a1 = new Address();
+        public string Name { get; private set; }
+        public string Surname { get; private set; }
+        Address personalAddress = new Address();
 
         public string Address
         {
-            get;
-            set;
-        }
-
-        public Person()
-        {
-            
+            get
+            {
+                return personalAddress.PostalAddress;
+            }
+            set
+            {
+                string street = personalAddress.Street;
+                int houseNo = personalAddress.HouseNo;
+                if (personalAddress.FlatNo.HasValue)
+                {
+                    int? flatNo = personalAddress.FlatNo;
+                }
+                else
+                {
+                    int? flatNo = null;
+                }
+                string city = personalAddress.City;
+                string postalCode = personalAddress.PostalCode;
+                string country = personalAddress.Country;
+            }
         }
 
         public void Introduce()
         {
-            Console.WriteLine("Hi! My name is {0} {1}", this.name, this.surname);
+            Console.WriteLine($"Hi! My name is {Name} {Surname}");
         }
 
         public void SetData(string name, string surname)
         {
-            this.name = name;
-            this.surname = surname;
+            Name = name;
+            Surname = surname;
 
         }
 

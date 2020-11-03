@@ -10,6 +10,9 @@ namespace OOP_homework
             p1.SetData("Kacper", "Szczepanek");
             p1.Introduce();
 
+            Console.WriteLine(p1.Name);
+            //p1.Name = "Kuba";
+            //Console.WriteLine(p1.Name);
         }
     }
 }

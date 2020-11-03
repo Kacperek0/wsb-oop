@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_homework", "OOP_homework\OOP_homework.csproj", "{8C4C39EA-608C-4E22-BFC3-317F10422A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_lab2", "OOP_lab2\OOP_lab2.csproj", "{8B95AF09-5CF7-4D1E-8105-6BC56BD0C368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_hw_2", "oop_hw_2\oop_hw_2.csproj", "{C90D037C-E99F-4264-B5B3-E809F61912C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +29,13 @@ Global
 		{8C4C39EA-608C-4E22-BFC3-317F10422A8D}.Debug|anycpu.Build.0 = Debug|anycpu
 		{8C4C39EA-608C-4E22-BFC3-317F10422A8D}.Release|anycpu.ActiveCfg = Release|anycpu
 		{8C4C39EA-608C-4E22-BFC3-317F10422A8D}.Release|anycpu.Build.0 = Release|anycpu
+		{8B95AF09-5CF7-4D1E-8105-6BC56BD0C368}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8B95AF09-5CF7-4D1E-8105-6BC56BD0C368}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8B95AF09-5CF7-4D1E-8105-6BC56BD0C368}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8B95AF09-5CF7-4D1E-8105-6BC56BD0C368}.Release|anycpu.Build.0 = Release|anycpu
+		{C90D037C-E99F-4264-B5B3-E809F61912C9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C90D037C-E99F-4264-B5B3-E809F61912C9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C90D037C-E99F-4264-B5B3-E809F61912C9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C90D037C-E99F-4264-B5B3-E809F61912C9}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
