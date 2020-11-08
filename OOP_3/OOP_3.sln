@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_3", "OOP_3\OOP_3.csproj", "{E33FF15C-6E1A-49A8-9CFE-922A58767596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad", "zad\zad.csproj", "{42561922-E56B-493C-BE1F-FCC9D3B11F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33FF15C-6E1A-49A8-9CFE-922A58767596}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E33FF15C-6E1A-49A8-9CFE-922A58767596}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E33FF15C-6E1A-49A8-9CFE-922A58767596}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E33FF15C-6E1A-49A8-9CFE-922A58767596}.Release|anycpu.Build.0 = Release|anycpu
+		{42561922-E56B-493C-BE1F-FCC9D3B11F1F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{42561922-E56B-493C-BE1F-FCC9D3B11F1F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{42561922-E56B-493C-BE1F-FCC9D3B11F1F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{42561922-E56B-493C-BE1F-FCC9D3B11F1F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

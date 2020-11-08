@@ -1,0 +1,6 @@
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/bin/Debug/zad.exe
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/bin/Debug/zad.pdb
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/obj/anycpu/Debug/zad.csprojAssemblyReference.cache
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/obj/anycpu/Debug/zad.csproj.CoreCompileInputs.cache
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/obj/anycpu/Debug/zad.exe
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/zad/obj/anycpu/Debug/zad.pdb

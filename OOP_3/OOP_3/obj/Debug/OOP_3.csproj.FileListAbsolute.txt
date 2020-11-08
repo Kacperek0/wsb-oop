@@ -1,0 +1,6 @@
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/obj/Debug/OOP_3.csprojAssemblyReference.cache
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/obj/Debug/OOP_3.csproj.CoreCompileInputs.cache
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/bin/Debug/OOP_3.exe
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/bin/Debug/OOP_3.pdb
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/obj/Debug/OOP_3.exe
+/Users/kacper.szczepanek/Documents/Repos/wsb-oop/labs/OOP_3/OOP_3/obj/Debug/OOP_3.pdb
